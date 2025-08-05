@@ -60,6 +60,6 @@
 
 ## 💖 Thanks for Visiting!
 
-<p align="center">
+<p>
   Thank you for stopping by my profile! Feel free to connect or reach out — I'm always open to collaboration and new opportunities.
 </p>
