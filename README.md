@@ -9,7 +9,6 @@
 
 ## 👨‍💻 About Me
 
-- 🧑‍💼 Software Engineer at Smartway, building logistics systems for real-world business operations  
 - 🎓 Graduated from VNU-HCM University of Science (HCMUS), majoring in Information Technology  
 - ⚙️ Skilled in both frontend (React, NextJS) and backend (Node.js, Spring Boot) development  
 - 🌱 I care about system design, clean architecture, and writing maintainable, scalable applications
